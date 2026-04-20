@@ -1,3 +1,4 @@
+https://files.rcsb.org/view/2A8V.cif
 # 2A8V-pdb_00002a8v
 RHO TRANSCRIPTION TERMINATION FACTOR/RNA COMPLEX
 data_2A8V

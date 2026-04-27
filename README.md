@@ -1,4 +1,7 @@
 Protein name: 2A8V | pdb_00002a8v / RHO TRANSCRIPTION TERMINATION FACTOR
+
 Description of 2A8V : The E. coli Rho protein disengages newly transcribed RNA from its DNA template, helping terminate certain transcripts. We have determined the X-ray crystal structure of the RNA-binding domain of Rho complexed to an RNA ligand. Filters that screen both ligand size and chemical functionality line the primary nucleic acid-binding site, imparting sequence specificity to a generic single-stranded nucleic acid-binding fold and explaining the preference of Rho for cytosine-rich RNA. The crystal packing reveals two Rho domain protomers bound to a single RNA with a single base spacer, suggesting that the strong RNA-binding sites of Rho may arise from pairing of RNA-binding modules. Dimerization of symmetric subunits on an asymmetric ligand is developed as a model for allosteric control in the action of the intact Rho hexamer.
+
 How I did 2A8V protein folding : First I wrote name of the protein whihc is 2A8V , RHO transcription termınation factor. Then, I dowladed like fasta format and I copy pasted the fasta sequence. After that, I opened the AlphaFold Server and, I pasted the fasta sequence, I clicked the button of continue and prewiev job. Finally my protein is folded and I dowloaded file. The file is ZIP file and I opened ZIP file and I Choose 3.cif file. I opened PYMOL and I clicked open the 3.cif file and that is it. 
+
 https://files.rcsb.org/view/2A8V.cif Readme link
